@@ -1,2 +1,2 @@
-adspot.com, 12094, DIRECT
+adspot.com, 1094, DIRECT
 catapultx.com, 144239, DIRECT
