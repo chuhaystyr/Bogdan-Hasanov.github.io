@@ -1,2 +1,1 @@
-catapultx.com, 160721, DIRECT
 test05.com, 1, DIRECT
