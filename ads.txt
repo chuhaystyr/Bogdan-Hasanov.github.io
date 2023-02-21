@@ -1,2 +1,2 @@
-catapultx.com, 160721, DIRECT
-test05.com, 1, DIRECT
+catapultx.com, 139258, DIRECT
+dynamo.com, 45, DIRECT
