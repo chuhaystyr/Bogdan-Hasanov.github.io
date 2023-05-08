@@ -1,2 +1,3 @@
 catapultx.com, 142139, DIRECT
 Admin.com, 123213, DIRECT
+adspot.com,	1094, RESELLER
