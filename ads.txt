@@ -1,3 +1,1 @@
-catapultx.com, 164329, DIRECT
-Admin.com, 123213, DIRECT, 89ff185a4c4e857c
-adspot.com, 1094, RESELLER
+
