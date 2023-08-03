@@ -1,2 +1,2 @@
-- qortex.ai, 139258, DIRECT
-- 09.com, 236, DIRECT, AAX
+qortex.ai, 139258, DIRECT
+09.com, 236, DIRECT, AAX
