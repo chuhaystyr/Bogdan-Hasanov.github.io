@@ -1,2 +1,2 @@
-qortex.ai, 139258, DIRECT
+qortex.ai, 1392585, DIRECT
 06.com, 123456, DIRECT
