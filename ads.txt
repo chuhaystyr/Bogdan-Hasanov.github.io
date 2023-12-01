@@ -1,2 +1,2 @@
 qortex.ai, 142139, DIRECT
-https://1.com, 232133, DIRECT
+https://1.com., 232133, DIRECT
