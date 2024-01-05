@@ -1,2 +1,1 @@
-qortex.ai, 142139, DIRECT 
-test.com, 123, DIRECT
+qortex.ai, 142139, DIRECT
