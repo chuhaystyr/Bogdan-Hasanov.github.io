@@ -1,2 +1,3 @@
 qortex.ai, 142139, DIRECT
 contextweb.com, 558355, DIRECT, 89ff185a4c4e857c
+3min.co, 4444444, DIRECT
