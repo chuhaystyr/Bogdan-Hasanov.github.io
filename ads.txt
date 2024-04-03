@@ -1,3 +1,2 @@
 qortex.ai, 164329, DIRECT
-Test7.com, 777,	RESELLER, 123456
-test_11.com, tester, RESELLER, 2489
+Bogdan_2024.cc, 294838, DIRECT
